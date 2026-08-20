@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main()
+{
+ int p=1000; r=25,t=2;
+ int si=p*r*t/100:
+ 

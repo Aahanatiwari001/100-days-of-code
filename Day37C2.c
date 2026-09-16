@@ -27,7 +27,6 @@ int main()
             sum[i] = sum[i] + a[i][j];
         }
     }
-
     printf("Sum of each row:\n");
 
     for (i = 0; i < rows; i++)
